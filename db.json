@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "02d0",
+      "name": "Gevorg Baghdasaryan",
+      "userName": "developer",
+      "phone": "+33200251",
+      "profilePicture": "https://random-image-pepebigotes.vercel.app/api/random-image"
+    }
+  ]
+}
